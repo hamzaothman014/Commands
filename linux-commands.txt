@@ -1,0 +1,60 @@
+ssh user@server - Connect to a remote server.
+ls - List files in the current directory.
+ls -l - List files with detailed info.
+ls -a - List all files, including hidden ones.
+pwd - Show the current directory path.
+cd directory - Change to a specified directory.
+cd .. - Go up one directory level.
+cd - Go back to the home directory.
+touch filename - Create an empty file.
+echo "text" > file - Write text to a file.
+nano filename - Edit a file using Nano editor.
+vim filename - Edit a file using Vim editor.
+cat filename - Display the contents of a file.
+shred filename - Permanently delete a file.
+mkdir dirname - Create a new directory.
+cp source destination - Copy a file.
+mv source destination - Move or rename a file.
+rm filename - Delete a file.
+rmdir dirname - Delete an empty directory.
+rm -r dirname - Delete a directory and its contents.
+ln -s target linkname - Create a symbolic link to a file.
+clear - Clear the terminal screen.
+whoami - Show your current username.
+sudo command - Run a command with superuser permissions.
+adduser username - Create a new user.
+su username - Switch to another user.
+exit - Exit the current session.
+passwd - Change your password.
+sudo apt update - Update package list (Debian/Ubuntu).
+sudo apt install package - Install a package (Debian/Ubuntu).
+sudo yum install package - Install a package (Red Hat/CentOS).
+finger username - Display information about a user.
+man command - Show the manual for a command.
+whatis command - Brief description of a command.
+which command - Show the path to a command.
+whereis command - Show all locations of a command.
+wget url - Download a file from the internet.
+curl url -o filename - Download a file using curl.
+zip file.zip files - Compress files into a zip archive.
+unzip file.zip - Extract files from a zip archive.
+less filename - View a file one page at a time.
+head filename - Show the first part of a file.
+tail filename - Show the last part of a file.
+cmp file1 file2 - Compare two files.
+diff file1 file2 - Show differences between two files.
+sort file - Sort the contents of a file.
+find directory -name "filename" - Search for files.
+chmod +x filename - Make a file executable.
+chown user:group filename - Change file owner.
+ifconfig - Show network interfaces.
+ip address - Show IP addresses.
+grep "text" file - Search for text in a file.
+ping hostname - Check if a host is reachable.
+traceroute hostname - Show the route to a host.
+netstat - Show network statistics.
+ss - Show socket statistics.
+sudo ufw allow port - Allow traffic on a port.
+uname -a - Show system information.
+neofetch - Display system info in a pretty way.
+sudo reboot - Restart the computer.
